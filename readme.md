@@ -46,6 +46,8 @@ Documents
 
 ```
 
+**Please note that this script assumes that the DOCUMENT path is provided as an argument and contains the files to be organized.**
+
 ## HOW IT WORKS
 
 Here's a breakdown of how the script works:
